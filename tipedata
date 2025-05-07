@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Contoh Kode</title>
+  <style>
+    pre {
+      background-color: #f4f4f4;
+      padding: 12px;
+      border-radius: 6px;
+      font-family: monospace;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <h3>Contoh Program Python</h3>
+  <pre><code>
+# Contoh penggunaan if else
+x = 10
+if x > 5:
+    print("Lebih dari 5")
+else:
+    print("5 atau kurang")
+  </code></pre>
+</body>
+</html>
